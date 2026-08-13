@@ -1,4 +1,4 @@
-````markdown
+
 # ImageFinder
 
 A privacy-focused **offline multimodal image search engine** that allows users to search local image collections using either:
